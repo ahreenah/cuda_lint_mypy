@@ -3,4 +3,4 @@ title=Linter for Python, using 'mypy'
 desc=Linter for CudaLint, adds support for Python lexer, using 'mypy'
 type=cudatext-plugin
 subdir=cuda_lint_mypy
-homepage=https://github.com/medvosa/cuda_lint_mypy
+homepage=https://github.com/TomBraider42/cuda_lint_gcc

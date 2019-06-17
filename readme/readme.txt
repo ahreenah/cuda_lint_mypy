@@ -1,12 +1,9 @@
 Linter for CudaLint plugin.
-It adds support for C/C++ lexer.
-It uses "gcc".
+It adds support for Python lexer.
+It uses "mypy".
 
-'gcc' must be in your system PATH.
+'mypy' must be in your system PATH.
 
-Author: Tom Braider
-
-Uses code from https://github.com/jfcherng/SublimeLinter-contrib-gcc
-Author: Jack Cherng
+Author: Medvosa
 
 License: MIT
