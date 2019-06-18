@@ -1,7 +1,6 @@
 """This module exports the Mypy plugin class."""
 
 from cuda_lint import Linter, util
-from cudatext import * 
 
 
 class MyPy(Linter):
@@ -21,7 +20,6 @@ class MyPy(Linter):
 
 
     def split_match(self, match):
-        print(match)
    
         """Return the components of the error."""
         split_match = super(MyPy, self).split_match(match)
