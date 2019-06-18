@@ -7,3 +7,8 @@ It uses "mypy".
 Author: Medvosa
 
 License: MIT
+
+Plugin uses code from  
+https://packagecontrol.io/packages/SublimeLinter-contrib-mypy
+
+Author: fredcallaway
